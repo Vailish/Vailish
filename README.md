@@ -7,7 +7,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vailish&layout=compact&theme=tokyonight)
 
-### Tech Stack
 <div align=center><h1>📚 Tech STACKS</h1></div>
 
 <div align=center> 
