@@ -10,6 +10,7 @@
 <div align=center><h1>📚 Tech STACKS</h1></div>
 
 <div align=center> 
+  <img src="https://img.shields.io/badge/c-3776AB?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
   <br>
