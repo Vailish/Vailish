@@ -1,5 +1,5 @@
 ### Hi there, I am Vailish 👋
-- I am currently learning for being developer
+- 끊임없이 성장하는 백엔드 개발자입니다!
 
 ![Vailish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vailish&show_icons=true&theme=highcontrast)
 
