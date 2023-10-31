@@ -1,5 +1,50 @@
-### Hi there, I am Vailish 👋
-- 끊임없이 성장하는 백엔드 개발자입니다!
+## 끊임없이 성장하는 개발자 베일리쉬 입니다. 👋
+- 끊임없이 성장하는 개발자 "베일리쉬" 입니다!
+- 특히, 백엔드에 관심이 많아 여러 프로젝트에서 백엔드를 맡아서 프로젝트를 진행했습니다.
+- 경험한 프로젝트와 같이 다양한 분야를 경험하는 것을 좋아합니다.
+- 연락처 : joyksj94@naver.com
+
+## EXPERIENCE
+- GSD CS study
+- ZICO Algorithm study
+- SSAFY 8th
+
+## Award / Certificates
+- SQLD
+- OPIc IM1
+
+## Project Summary
+#### Company Source
+![Company Source logo](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e9badf7a-165b-45d4-a3e5-fa8782596a9f/Untitled.png)
+- 서비스 개요 : 기업 분석 및 비교 서비스
+- 역할 / 총 팀원 수 : 백엔드, 기업분석 / 6명
+- 주요 사용 기술스택 : Java, Springboot, MySQL, MongoDB, Python
+- [Project Repository](https://github.com/Vailish/COMPANY-SOURCE)
+
+#### BOOKLET
+![Booklet logo](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/90ea5932-1a24-4516-93c5-62fc758c24da/Untitled.png)
+- 서비스 개요 : 빅데이터 기반 도서 및 문장 추천 서비스
+- 역할 / 총 팀원 수 : 백엔드 / 5명
+- 주요 사용 기술스택 : Java, Springboot, MySQL, Python, Django
+- [Project Repository](https://github.com/Vailish/BOOKLET)
+
+#### DGRR
+![DGRR logo](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fe908bb5-c886-4a13-8d4d-7c8165a2eac8/Untitled.png)
+- 서비스 개요 : 실시간 볼링 매칭 및 전적 관리 서비스
+- 역할 / 총 팀원 수 : 백엔드, 팀장 / 5명
+- 주요 사용 기술스택 : Java, Springboot, MySQL
+- [Project Repository](https://github.com/Vailish/DGRR)
+
+#### PDD
+![PDD logo](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e0236078-1f91-4a57-bdac-9c0a1960b523/Untitled.png)
+- 서비스 개요 : 평점 기반 영화 추천 커뮤니티 서비스
+- 역할 / 총 팀원 수 : 백엔드, 팀장 / 2명
+- 주요 사용 기술스택 : Python, Django, Sqlite3
+- [Project Repository](https://github.com/Vailish/PDD)
+
+## 
+
+## Others information
 
 ![Vailish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vailish&show_icons=true&theme=highcontrast)
 
