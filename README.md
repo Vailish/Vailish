@@ -2,7 +2,7 @@
 - 백엔드에 관심이 많아 여러 프로젝트에서 백엔드를 맡아서 프로젝트를 진행했습니다.
 - 경험한 프로젝트와 같이 다양한 분야를 경험하는 것을 좋아합니다.
 - 연락처 : joyksj94@naver.com
-- 이력서 : [Notion](https://www.notion.so/cea15c5e1c014b13af6d5041eab61404?pvs=4)
+- 이력서 : [Notion](https://adhesive-seat-0fc.notion.site/cea15c5e1c014b13af6d5041eab61404?pvs=4)
 
 ## EXPERIENCE
 - GSD CS study
