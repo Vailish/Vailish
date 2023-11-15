@@ -1,9 +1,8 @@
-## 끊임없이 성장하는 개발자 베일리쉬 입니다.
-- 끊임없이 성장하는 개발자 김성준 입니다!
-- 특히, 백엔드에 관심이 많아 여러 프로젝트에서 백엔드를 맡아서 프로젝트를 진행했습니다.
+## 끊임없이 성장하는 개발자 김성준 입니다.
+- 백엔드에 관심이 많아 여러 프로젝트에서 백엔드를 맡아서 프로젝트를 진행했습니다.
 - 경험한 프로젝트와 같이 다양한 분야를 경험하는 것을 좋아합니다.
 - 연락처 : joyksj94@naver.com
-- 이력서 : [Notion](https://www.notion.so/da337de28f4249e993bfff956caaf847?pvs=4](https://www.notion.so/cea15c5e1c014b13af6d5041eab61404?pvs=4 )
+- 이력서 : [Notion](https://www.notion.so/cea15c5e1c014b13af6d5041eab61404?pvs=4)
 
 ## EXPERIENCE
 - GSD CS study
