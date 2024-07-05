@@ -10,8 +10,9 @@
 - SSAFY 8th
 
 ## Award / Certificates
+- 정보처리기사
 - SQLD
-- OPIc IM1
+- TOEIC Speaking IM3
 
 ## Project Summary
 #### #4 Company Source
@@ -48,35 +49,38 @@
 
 ## Main Tech Stacks
 #### Language
-<img src="https://img.shields.io/badge/java-FFB71B?style=for-the-badge&logo=openjdk&logoColor=black">
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+- Java
+- Python
 
 #### Framework
-<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-<img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
+- Spring boot
+- Spring (MVC, legacy)
+- egovFramework
+- Django
 
 #### Datebase
-<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-<img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
+- Oracle
+- MySQL
+- Redis
+- MongoDB
 
 #### Deploy
-
-<img src="https://img.shields.io/badge/amazonec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
+- Kubernetes
+- NCP, NKS (Naver Cloud)
+- AWS EC2
 
 #### IDE
-<img src="https://img.shields.io/badge/Intellij-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
-<img src="https://img.shields.io/badge/Spring Tool Suite-6DB33F?style=for-the-badge&logo=&logoColor=white">
-<img src="https://img.shields.io/badge/VScode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+- STS
+- Eclipse
+- Intellij
+- VSCODE
 
 #### Collaboration tools
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=GitLab&logoColor=white">
-<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-
-<img src="https://img.shields.io/badge/jirasoftware-0052CC?style=for-the-badge&logo=jirasoftware&logoColor=white">
-<img src="https://img.shields.io/badge/MatterMost-0058CC?style=for-the-badge&logo=mattermost&logoColor=white">
-<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+- Gitlab
+- JIRASOFTWARE
+- MATTERMOST
+- SVN
+- NOTION
 
 ## Other information
 
