@@ -11,8 +11,9 @@
 
 ## Award / Certificates
 - 정보처리기사
-- SQLD
-- TOEIC Speaking IM3
+- SQLD (SQL 개발자)
+- 리눅스 마스터 2급
+- TOEIC Speaking IM2
 
 ## Project Summary
 #### #4 Company Source
@@ -61,11 +62,13 @@
 #### Datebase
 - Oracle
 - MySQL
+- Tibero
 - Redis
 - MongoDB
 
 #### Deploy
 - Kubernetes
+- Docker compose
 - NCP, NKS (Naver Cloud)
 - AWS EC2
 
@@ -89,19 +92,3 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=Vailish)](https://solved.ac/Vailish)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vailish&layout=compact&theme=tokyonight)
-
-
-<!--
-**Vailish/Vailish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
